@@ -1,0 +1,2 @@
+The staging area (also known as the index) in Git is a crucial intermediate step where you prepare and review changes
+ before you officially save them into the repository with a commi

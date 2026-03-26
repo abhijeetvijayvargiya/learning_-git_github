@@ -1,0 +1,2 @@
+Local Repository (Git Directory): When you run the git commit command, all changes from the staging area are saved as a permanent snapshot (commit) in your local repository. This commit gets a unique ID (SHA)
+ and includes metadata like the author, timestamp, and a descriptive message

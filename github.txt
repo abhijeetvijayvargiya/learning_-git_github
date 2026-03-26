@@ -1,0 +1,2 @@
+GitHub is a cloud-based platform that acts as a digital hub for developers
+ to store, manage, share, and collaborate on code projects

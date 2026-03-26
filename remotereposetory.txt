@@ -1,0 +1,2 @@
+A local repository is a Git repository stored on your computer that
+ contains all your project files, history, and branches.
